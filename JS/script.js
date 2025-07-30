@@ -54,3 +54,28 @@ if (numero >= 18) {
 //console.log("Sua entrada não está permitida!!")
 //} 
 
+
+// Loop aula 3:
+/*const emailCadastrado = "joker"
+let email = prompt("Digite seu email")
+
+while (email !== "joker") {
+    email = prompt("Erro, tente novamente!!")
+}
+alert("Boas vindas!!")*/
+
+/*let numero
+do {
+    numero = parseInt(prompt("Digite um número (termina quando for numero negativo)!!"))
+} while (numero >= 0)
+alert("número negativo inserido!!")*/
+
+/*for (let i = 0; i <= 20; i++) {
+    if (i % 3 === 0) {
+        continue;
+    } else if (i > 15) {
+        break;
+    }
+    console.log(i)
+}*/
+
